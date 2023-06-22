@@ -2,7 +2,7 @@ const amount = document.getElementById("amount");
 const description = document.getElementById("description");
 const myForm = document.getElementById('my-form');
 const userList = document.getElementById('users');
-const category =document.getElementById('category')
+const category =document.getElementById('category');
 
 ////creating an li element and adding it to the user list
 function listCreation(details,key){
